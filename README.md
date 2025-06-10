@@ -19,7 +19,7 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-css-flexbox-mobile-first-x12345678)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/68403b3781440b1be5152e49/challenge/refactor)
 - Live Site URL: [Live preview](https://social-links-profile-main-swart-ten.vercel.app)
 
 ## My process
